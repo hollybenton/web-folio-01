@@ -1,0 +1,30 @@
+html { 
+  background: url(images/backgrounds/bg_home2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+	font-family: Helvetica, sans-serif;
+	margin: 0 auto;
+}
+a:link {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+#menu {
+	text-align: right;
+	height: 50px;
+	line-height: 50px;
+	background-color: #000000;
+	background-color: rgba(0,0,0,0.5);
+	color: #ffffff;
+	font-size: 16px;
+	font-weight: bold;
+	border: 1px solid #555555;
+	word-spacing: 30px;
+	/*padding-top: 10px;*/
+	padding-right: 120px;
+}
