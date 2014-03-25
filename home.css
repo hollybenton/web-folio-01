@@ -28,3 +28,44 @@ a:link {
 	/*padding-top: 10px;*/
 	padding-right: 120px;
 }
+
+.container {
+	width: 960px;
+	margin: 0 auto;
+	overflow: auto;
+	/*border: 1px solid red;*/
+}
+
+.row {
+	/*border: 1px solid green;*/
+	overflow: auto;
+	margin-left: -10px;
+}
+
+.project {
+	/*display: inline-block;*/
+	width: 300px;
+	/*height: 150px;*/
+	margin-left: 20px;
+	float: left;
+	/*border: 1px solid blue;*/
+	background-color: #000000;
+	background-color: rgba(0,0,0,0.5);
+	color: #FFFFFF;
+}
+
+.project .title {
+	margin: 10px;
+}
+
+.project p {
+	margin: 10px;
+	font-size: 14px;
+	color: #FFF;
+	font-family: Georgia, serif;
+}
+
+
+
+
+
