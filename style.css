@@ -1,6 +1,7 @@
 
 body {
-	font-family: Helvetica, sans-serif;
+	font-family: Georgia, serif;
+	font-size: 13px;
 	margin: 0 auto;
 }
 a:link {
@@ -115,6 +116,18 @@ a:visited {color: #000}
 .contact .l2 {
 	color: #F5860C;
 }
+
+.subhead {
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+	/*border: 1px solid red;*/
+	line-height: 25px;
+}
+
+
+
+
+
 
 
 
