@@ -1,0 +1,107 @@
+
+body {
+	font-family: Helvetica, sans-serif;
+	margin: 0 auto;
+}
+a:link {
+	text-decoration: none;
+	color: #000;
+}
+a:visited {color: #000}
+
+.UL {
+	/*text-decoration: underline;*/
+	border-bottom: 2px solid #662D81;
+}
+
+#menu {
+	text-align: right;
+	height: 65px;
+	line-height: 65px;
+	color: #662D81;
+	font-size: 27px;
+	font-weight: bold;
+	/*border: 1px solid #555555;*/
+	word-spacing: 45px;
+	/*padding-top: 10px;*/
+	font-family: Reenie Beanie, cursive;
+	margin: 0 70	 0 auto;
+}
+
+.intro {
+	font-family: Reenie Beanie, cursive;
+	color: #662D81;
+	text-align: center;
+	margin-top: 100px;
+}
+.intro .l1 {
+	font-size: 160px;
+	color: #F5440C;
+}
+.intro .l2 {
+	font-size: 120px;
+	color: #F5860C;
+}
+.intro .l3 {
+	font-size: 105px;
+	color: #F5CA0C;
+}
+
+.LC {
+	margin: 40 20;
+	/*border: 1px solid red;*/
+	float: left;
+	display: inline-block;
+}
+
+.RC {
+	margin: 40 auto;
+	/*border: 1px solid blue;*/
+	width: 430px;
+	/*float: right;*/
+	display: inline-block;
+}
+
+.preview {
+	/*border: 1px solid green;*/
+	padding-bottom: 20px;
+}
+
+.info {
+	/*border: 1px solid purple;*/
+	height: 400px;
+	width: 400;
+	margin-bottom: 20px;
+}
+.info h4 {
+	font-family: Reenie Beanie, cursive;
+	font-size: 33px;
+	line-height: 20px;
+	/*border: 1px solid red;*/
+	margin: -0 auto;
+}
+
+.about {
+	font-family: Reenie Beanie, cursive;
+	font-size: 60px;
+	padding-left: 70px;
+	padding-top: 40px;
+	width: 500px;
+}
+.about .l1 {
+	color: #F51B0C;
+}
+.about .l2 {
+	color: #F5440C;
+}
+.about .l3 {
+	color: #F5860C;
+}
+.about .l4 {
+	color: #F5CA0C;
+}
+
+
+
+
+
